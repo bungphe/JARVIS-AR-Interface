@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS AR Interface",
+  "description": "An immersive Augmented Reality experience tracking face and hands to control a holographic Earth interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
